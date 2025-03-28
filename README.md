@@ -1,7 +1,5 @@
 # yo, welcome to my corner of the internet
 
-![whattheheck](https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif)
-
 ## who am i?
 ```py
 class Me:
