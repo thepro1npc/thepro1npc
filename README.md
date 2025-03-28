@@ -1,16 +1,36 @@
-## Hi there 👋
+# yo, welcome to my corner of the internet
 
-<!--
-**thepro1npc/thepro1npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![whattheheck](https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif)
 
-Here are some ideas to get you started:
+## who am i?
+```py
+class Me:
+    def __init__(self):
+        self.languages = ["python", "lua", "html"]
+        self.interests = ["cybersecurity", "hacking", "ctfs", "reverse engineering"]
+    
+    def do_stuff(self):
+        print("probably writing scripts or breaking things (legally)")
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i do
+- write python scripts for random stuff
+- mess with lua (mostly for games)
+- build, break, and mess with web apps
+- ctf challenges, pentesting, and figuring out exploits
+
+## tools & tech i use
+```bash
+$ echo "python, lua, html, wireshark, nmap"
+```
+
+## currently working on
+- some python exploit thing
+- lua scripts for fun
+- a toolkit for automating recon (because why not)
+
+## social
+- discord: [@burntribs24](https://discord.com/users/1158839658738892872)
+
+---
+> break stuff. learn things. stay legal.
